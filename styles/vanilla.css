@@ -1,0 +1,13 @@
+.bikers-icon-bg {
+    background-color: rgb(156, 54, 54);
+} 
+.foot-links a {
+    text-decoration: none;
+    color: white;
+    padding-left: 24px;
+}
+@media screen and (max-width: 576px) {
+    .footer-bz {
+        flex-direction: column-reverse;
+    }
+}
